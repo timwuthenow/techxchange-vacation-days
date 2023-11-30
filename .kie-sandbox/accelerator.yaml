@@ -1,0 +1,10 @@
+# This file was automatically created by KIE Sandbox. Please don't modify it.
+name: Quarkus
+iconUrl: >-
+  https://github.com/kiegroup/kie-sandbox-quarkus-accelerator/raw/0.0.0/quarkus-logo.png
+gitRepositoryUrl: https://github.com/ibm/bamoe-canvas-quarkus-accelerator
+gitRepositoryGitRef: 9.0.0-quarkus-dmn
+dmnDestinationFolder: src/main/resources/dmn
+bpmnDestinationFolder: src/main/resources/bpmn
+otherFilesDestinationFolder: src/main/resources/others
+appliedAt: '2023-11-30T18:04:48.208Z'
